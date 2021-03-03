@@ -1,24 +1,41 @@
-.container{
+.container {
     margin: 0 auto;
 }
-.my{
-   margin: 0.5rem 0; 
+
+.my {
+    margin: 0.5rem 0;
 }
-.px{
+
+.px {
     padding: 0 0.5rem;
 }
-.py{
+
+.py {
     padding: 0.5 0rem;
 }
-img{display: block;}
-.mx{
+
+img {
+    display: block;
+}
+
+.mx {
     margin: 0 0.5rem;
 }
-.card-header{
+
+.card-header {
     height: 2%;
 }
-.orient{
+
+.orient {
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+.box {
+    width: 1000px;
+    height: 780px;
+    margin: 0 auto;
+    padding: 1rem 0;
+    background-color: #F1EDF4;
 }
